@@ -8,7 +8,7 @@
 
 ## 始め方
 
-1. GitHub にサインインし、[このテンプレートから演習を作成する](https://github.com/ctct-edu/connect-the-dots/generate) を開きます。**Owner** と公開範囲を確認して **Create repository** を選びます。
+1. GitHub にサインインし、[このテンプレートから演習を作成する](https://github.com/new?template_owner=ctct-edu&template_name=connect-the-dots&owner=%40me&name=skills-connect-the-dots&description=My+clone+repository&visibility=public) を開きます。**Repository name** に `skills-connect-the-dots` が入っていることを確認します。**Owner** と公開範囲を確認して **Create repository** を選びます。
 2. 20秒ほど待って再読み込みします。自分のコピーの **README** に出る案内に合わせて進めます。
 3. ファイル名、ブランチ名、コード、指定コメントは掲載どおりに入力します。操作後は GitHub 上で次の案内を確認します。
 
