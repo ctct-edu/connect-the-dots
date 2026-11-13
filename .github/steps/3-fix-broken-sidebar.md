@@ -7,4 +7,9 @@
 3. **Assignees** で自分を担当者にし、PR の説明欄に `Closes #2` を入れます。番号が Issue #2 のリンクになっていることを確認します。
 4. PR を作成し、20秒ほど待ってからマージします。作業ブランチを削除し、再度20秒ほど待って案内ページを再読み込みします。
 
+### 画面での確認
+
+- `docs/_sidebar.md` のファイル表示右上の鉛筆アイコンで編集し、コミット時に新規ブランチ `fix-sidebar` を選びます。
+- PR の作成画面ではタイトルの下の説明欄に `Closes #2` を入れます。マージ後は PR が **Merged**、Issue #2 が **Closed** であることを確認します。
+
 [原文](https://github.com/skills/connect-the-dots/blob/main/.github/steps/3-fix-broken-sidebar.md)
